@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Space Riders placeholder icon">
+<rect width="64" height="64" rx="14" fill="#0B0D17"/>
+<circle cx="32" cy="32" r="13" fill="none" stroke="#5B8CFF" stroke-width="4"/>
+<ellipse cx="32" cy="32" rx="24" ry="7" fill="none" stroke="#F4F5FA" stroke-width="3" transform="rotate(-20 32 32)"/>
+<circle cx="50" cy="14" r="2" fill="#F4F5FA"/><circle cx="12" cy="50" r="1.5" fill="#A3A8C3"/>
+</svg>
